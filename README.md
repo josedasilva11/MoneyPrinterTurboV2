@@ -8,10 +8,7 @@
   <a href="https://github.com/harry0703/MoneyPrinterTurbo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="License"></a>
 </p>
 <br>
-<h3>简体中文 | <a href="README-en.md">English</a> | <a href="README-pt.md">Português</a></h3>
-<div align="center">
-  <a href="https://trendshift.io/repositories/8731" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8731" alt="harry0703%2FMoneyPrinterTurbo | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</div>
+ <a href="README-en.md">English</a> | <a href="README-pt.md">Português</a></h3>
 <br>
 Só precisa de fornecer um <b>tema</b> ou <b>palavra-chave</b> para um vídeo, e pode gerar automaticamente o roteiro, material, legendas, música de fundo e depois compor um vídeo de alta definição.
 <br>
@@ -26,22 +23,7 @@ Só precisa de fornecer um <b>tema</b> ou <b>palavra-chave</b> para um vídeo, e
 
 </div>
 
-## Agradecimentos Especiais 🙏
 
-Devido ao **desafio** de **instalar** e **usar** este projeto, que pode ser **difícil** para alguns utilizadores, queremos agradecer especialmente ao website **录咖（Plataforma de Serviços Multimédia Inteligente AI）** por fornecer o serviço gratuito de `Gerador de Vídeos AI`, que permite o uso direto online sem necessidade de instalação.
-
-- Versão em Chinês: https://reccloud.cn
-- Versão em Inglês: https://reccloud.com
-
-![](docs/reccloud.cn.jpg)
-
-## Agradecimento aos Patrocinadores 🙏
-
-Agradecemos a佐糖 https://picwish.cn pelo apoio e patrocínio deste projeto, permitindo a sua contínua atualização e manutenção.
-
-佐糖 é especializado no campo de **processamento de imagens**, oferecendo uma vasta gama de **ferramentas de processamento de imagens**, simplificando operações complexas para tornar o processamento de imagens mais fácil.
-
-![picwish.jpg](docs/picwish.jpg)
 
 ## Funcionalidades 🎯
 
@@ -70,9 +52,7 @@ Agradecemos a佐糖 https://picwish.cn pelo apoio e patrocínio deste projeto, p
 - [ ] Suporte para mais serviços de síntese de voz, como OpenAI TTS
 - [ ] Upload automático para a plataforma YouTube
 
-## Discussão e Troca de Ideias 💬
 
-<img src="docs/wechat-group.jpg" width="250">
 
 ## Demonstração de Vídeo 📺
 
